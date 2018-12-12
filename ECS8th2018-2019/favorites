@@ -1,2 +1,8 @@
 <!doctype html>
 <html>
+  <head>
+    <title>Favroites</title>
+  </head>
+  
+    <h2> Rowing Picture </h2>
+    <img width="200" src="https://www.saugatuckrowing.com/wp-content/uploads/2013/04/rowing-banner-1.jpg">
