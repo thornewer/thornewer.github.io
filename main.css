@@ -2,7 +2,7 @@
 
 html {
   font: 18px 'Times New Roman', serif;
-  background: rgb(149, 244, 245) url(/images/texture/light2a.png);
+  background: rgb(247, 230, 250) url(/images/texture/light2a.png);
 }
 
   h1,
@@ -22,10 +22,10 @@ html {
   h2,
   a,
   footer {
-   color: rgb(30, 164, 193);
+   color: rgb(1, 1, 1);
 }
   a:hover{
-   color: rgb(3, 102, 193);
+   color: rgb(175, 30, 198) ;
 }
 
 img {
